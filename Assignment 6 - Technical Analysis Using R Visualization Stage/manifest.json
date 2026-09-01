@@ -1,0 +1,20 @@
+{
+  "assignment": 6,
+  "title": "Technical Analysis Using R, Visualization Stage",
+  "instructionPageUrl": "https://www.ecampuslife.ca/lms/mod/page/view.php?id=43634564",
+  "submissionUrl": "https://www.ecampuslife.ca/lms/mod/assign/view.php?id=43634583",
+  "requiredFilename": "Khurana_Sunny_CA_BDA400_A06.pdf",
+  "sourceFiles": ["BDA400 Assignment 6 - Technical Analysis using R, Visualization Phase.pdf"],
+  "requiredOutputs": [
+    "app.R",
+    "README.md",
+    "cover_page.md",
+    "submission/Khurana_Sunny_CA_BDA400_A06.pdf"
+  ],
+  "sourceLocalized": true,
+  "repositoryUrl": "https://github.com/sunny-khurana-26/TechnicalAnalysis/tree/main/Assignment%206%20-%20Technical%20Analysis%20Using%20R%20Visualization%20Stage",
+  "status": "built_locally_runtime_verified_external_url_handoff_required",
+  "verificationStatus": "blocked_external_evidence_after_runtime_verification",
+  "nativeRTest": "R_4.2.3_runtime_verified; Yahoo_request_fell_back_on_DNS_failure",
+  "finalPdf": "submission/Khurana_Sunny_CA_BDA400_A06.pdf"
+}
