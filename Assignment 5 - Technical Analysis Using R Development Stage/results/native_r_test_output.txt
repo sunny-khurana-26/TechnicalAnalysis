@@ -1,0 +1,1 @@
+PASS: 9 indicators, required errors, OHLCV frames, time-frame/data-source filters, indicator stock filter, and trading rule.
