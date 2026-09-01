@@ -1,0 +1,13 @@
+# Deterministic offline checks; run from repository root with: Rscript tests/test_analysis.R
+source(file.path("R", "analysis.R"))
+data <- load_stock_data(source = "sample")
+stopifnot(identical(names(data), c("AAPL", "MSFT")))
+stopifnot(nrow(data$AAPL) == 20, nrow(data$MSFT) == 20)
+stats <- calculate_portfolio_statistics(data, moving_average_window = 5)
+stopifnot(isTRUE(all.equal(round(stats$AAPL$mean, 2), 265.95)))
+stopifnot(isTRUE(all.equal(round(stats$AAPL$median, 2), 264.50)))
+stopifnot(isTRUE(all.equal(round(stats$MSFT$mean, 2), 492.25)))
+stopifnot(sum(!is.na(stats$AAPL$moving_average)) == 16)
+stopifnot(stats$AAPL$mode == 250)
+stopifnot(stats$AAPL$standard_deviation > 0)
+cat("PASS: offline loading and required statistics checks\n")
