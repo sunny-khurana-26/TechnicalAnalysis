@@ -1,0 +1,14 @@
+{
+  "assignment": 5,
+  "title": "Technical Analysis Using R, Development Stage",
+  "instructionPageUrl": "https://www.ecampuslife.ca/lms/mod/page/view.php?id=43634552",
+  "submissionUrl": "https://www.ecampuslife.ca/lms/mod/assign/view.php?id=43634565",
+  "requiredFilename": "LName_FName_CA_BDA400_A05.pdf",
+  "sourceFiles": ["BDA400 Assignment 5 - Technical Analysis using R, Development Phase.pdf"],
+  "sourceLocalized": true,
+  "repositoryUrl": "https://github.com/sunny-khurana-26/TechnicalAnalysis/tree/main/Assignment%205%20-%20Technical%20Analysis%20Using%20R%20Development%20Stage",
+  "status": "built_locally_external_student_action_pending",
+  "verificationStatus": "blocked_external_evidence",
+  "nativeRTest": "passed_R_4.2.3",
+  "finalPdf": "submission/Khurana_Sunny_CA_BDA400_A05.pdf"
+}
