@@ -1,0 +1,62 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2645 >>
+stream
+q 0.07 0.21 0.36 rg 0 650 612 142 re f Q
+1 1 1 rg BT /F1 24 Tf 54 724 Td (BDA400 Assignment 6) Tj ET
+0.8 0.89 1 rg BT /F1 13 Tf 54 696 Td (Technical Analysis using R, Visualization Phase) Tj ET
+0.39 0.47 0.58 rg BT /F1 9 Tf 54 624 Td (STUDENT) Tj ET
+0.2 0.27 0.36 rg BT /F1 12 Tf 170 624 Td (Sunny Khurana) Tj ET
+0.39 0.47 0.58 rg BT /F1 9 Tf 54 594 Td (STUDENT ID) Tj ET
+0.2 0.27 0.36 rg BT /F1 12 Tf 170 594 Td (664425271) Tj ET
+0.39 0.47 0.58 rg BT /F1 9 Tf 54 574 Td (COURSE) Tj ET
+0.2 0.27 0.36 rg BT /F1 12 Tf 170 574 Td (BDA400 / Data Science Tools and Techniques) Tj ET
+0.39 0.47 0.58 rg BT /F1 9 Tf 54 544 Td (WEIGHT) Tj ET
+0.2 0.27 0.36 rg BT /F1 12 Tf 170 544 Td (15%) Tj ET
+0.89 0.92 0.96 RG 54 528 m 558 528 l S
+0.15 0.39 0.92 rg BT /F1 12 Tf 54 505 Td (PROJECT DESCRIPTION) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 476 Td (This project is an R Shiny portfolio dashboard that retrieves historical) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 458 Td (stock data from Yahoo Finance with quantmod, provides a deterministic) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 440 Td (offline fallback for reproducibility, and visualizes price data as line,) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 422 Td (candlestick, or area charts. Users can select Daily, Weekly, or Monthly) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 404 Td (timeframes, configure moving-average periods, toggle Moving Averages, RSI,) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 386 Td (and MACD price-chart layers, and review every Buy, Sell, or Hold observation.) Tj ET
+0.15 0.39 0.92 rg BT /F1 12 Tf 54 340 Td (ASSIGNMENT REPOSITORY) Tj ET
+0.2 0.27 0.36 rg BT /F1 8 Tf 54 312 Td (https://github.com/sunny-khurana-26/TechnicalAnalysis/tree/main/) Tj ET
+0.2 0.27 0.36 rg BT /F1 8 Tf 54 298 Td (Assignment%206%20-%20Technical%20Analysis%20Using%20R%20Visualization%20Stage) Tj ET
+0.2 0.27 0.36 rg BT /F1 10 Tf 54 296 Td (BDA400-A06-Technical-Analysis-R) Tj ET
+0.39 0.47 0.58 rg BT /F1 8 Tf 54 270 Td (Public repository path matches the code and PDF package.) Tj ET
+0.15 0.39 0.92 rg BT /F1 12 Tf 54 222 Td (INCLUDED IMPLEMENTATION) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 194 Td (app.R contains the complete Shiny application. README.md documents) Tj ET
+0.2 0.27 0.36 rg BT /F1 11 Tf 54 176 Td (installation, launch, data retrieval, fallback behavior, indicator) Tj ET
+0.2 0.27 0.36 rg BT /F1 10 Tf 54 158 Td (definitions, trading rules, and current runtime validation findings.) Tj ET
+0.39 0.47 0.58 rg BT /F1 8 Tf 54 136 Td (R 4.2.3/Shiny runtime checks passed; Yahoo request fell back on DNS failure.) Tj ET
+0.39 0.47 0.58 rg BT /F1 9 Tf 54 90 Td (Prepared for Assignment 6 submission) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3013
+%%EOF
