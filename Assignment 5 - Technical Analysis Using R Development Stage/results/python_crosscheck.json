@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": 9,
+  "r_available": true,
+  "r_reason": "Rscript is available; native output is recorded separately",
+  "dataset_rows": 39,
+  "symbols": [
+    "AAPL",
+    "MSFT"
+  ],
+  "notes": "Independent Python equations and R signature/error-string audit passed; use the native R runner for authoritative execution."
+}
